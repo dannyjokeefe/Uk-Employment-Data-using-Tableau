@@ -42,7 +42,7 @@ The dashboard enables users to quickly understand where employment increased the
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](./Screenshot%202025-06-09%20at%2015.38.27.png)
+<img width="1680" alt="Screenshot 2025-06-09 at 15 38 27" src="https://github.com/user-attachments/assets/d8599cd9-3132-4dda-ad70-2c90a25935d6" />
 
 ## 🚀 How to Explore
 
