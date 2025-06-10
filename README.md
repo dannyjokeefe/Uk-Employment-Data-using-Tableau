@@ -50,3 +50,12 @@ The dashboard enables users to quickly understand where employment increased the
 1. Download the TWBX file (`UK Employment Data (1).twbx`)
 2. Open it with Tableau Desktop (version 2020.4 or later recommended)
 3. Interact with filters and visuals to explore employment trends
+
+## 📬 Contact
+
+Let’s connect or collaborate:  
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+
+---
+**Created by:** *Danny O'Keefe*  
+**Date:** May 2025
