@@ -54,7 +54,7 @@ The dashboard enables users to quickly understand where employment increased the
 ## 📬 Contact
 
 Let’s connect or collaborate:  
-[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyjokeefe)
 
 ---
 **Created by:** *Danny O'Keefe*  
